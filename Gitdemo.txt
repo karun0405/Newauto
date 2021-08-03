@@ -2,3 +2,6 @@
 
 2. VCS is a maintain the different codes and history.
 
+3. just create the repostiry
+
+4. stroe the file thats called resposirty
