@@ -1,0 +1,3 @@
+3. Storing the files into folder thats called respository in github.
+
+4.Create the repostory
