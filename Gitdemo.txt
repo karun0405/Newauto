@@ -1,0 +1,4 @@
+1. GIT is a version control system
+
+2. VCS is a maintain the different codes and history.
+
